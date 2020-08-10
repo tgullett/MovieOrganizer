@@ -158,7 +158,7 @@
             this.omdbApiKey.Name = "omdbApiKey";
             this.omdbApiKey.Size = new System.Drawing.Size(109, 20);
             this.omdbApiKey.TabIndex = 11;
-            this.omdbApiKey.Text = "a1901879";
+            this.omdbApiKey.Text = "";
             // 
             // omdbapiLink
             // 
